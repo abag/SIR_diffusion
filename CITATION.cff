@@ -3,7 +3,7 @@ message: "If you use this software, please cite the accompanying paper."
 authors:
   - family-names: Baggaley
     given-names: Andrew W.
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0002-6813-2443"
     affiliation: "Lancaster University"
 title: "Code for: Learning Spatial Transmission Maps from Sparse Outbreak Snapshots with Diffusion Models"
 license: MIT
